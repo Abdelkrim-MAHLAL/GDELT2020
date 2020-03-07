@@ -1,9 +1,12 @@
+
+
 Réalisation : Mansour Hmidan, Sofien Bentaher, Ahmed Ben Amor, Abdelkrim Mahlal , Haythem Chettaoui,
 Djafar Hamiche, Kamel Boucherba, Aymen Cheikh , Lamine Ouachek 
 
 
-Intro
 
+
+                                               Intro
 
 
 " The Global Database of Events, Language, and Tone (GDELT), est une initiative pour construire un catalogue de comportements et de croyances sociales à travers le monde,
